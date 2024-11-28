@@ -23,7 +23,7 @@ cd DrivingAgents/UniAD && python demo/fast_api_uniad.py
 ```
 
 ### VAD
-请按照 [README.md](../DrivingAgents/VAD/README.md) 准备环境并下载权重。
+请按照 [README.md](../DrivingAgents/VAD/README_CN.md) 准备环境并下载权重。
 
 ```shell
 cd DrivingAgents/VAD && python demo/fast_api_vad.py
